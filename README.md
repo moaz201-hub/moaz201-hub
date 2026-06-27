@@ -23,7 +23,7 @@
 
 ### 👋 Welcome to my profile!
 
-Hi there! I am an Information Systems student at Helwan University passionate about full-stack development, algorithmic problem solving, and building efficient digital systems. Feel free to look around my repositories or connect with me through my socials above!
+Hi there! I am an Information Systems student passionate about full-stack development, algorithmic problem solving, and building efficient digital systems. Feel free to look around my repositories or connect with me through my socials above!
 
 >  **Current Status:** Interning as a Front-End AI Engineer at FlyRank AI and actively participating in competitive programming contests.
 
