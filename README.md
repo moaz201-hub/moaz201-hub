@@ -39,7 +39,7 @@ Hi there! I am an Information Systems student at Helwan University passionate ab
 * **Technical Background:** Data Structures, Advanced Graph Algorithms,Dp , Trees
 * **Currently Learning:** React, .NET, and Advanced Number Theory
 * **Future Focus:** Angular and System Design
-* **Hobbies:** Chess, Rubik's Cube Solving, PC Customization, and Circuit Building
+
 
 ---
 
