@@ -60,8 +60,6 @@ Hi there! I am an Information Systems student at Helwan University passionate ab
 #### Algorithmic & Problem-Solving Workspaces
 * **Codeforces Workspace:** Automated repository managing optimized solutions for advanced graph tasks, segment trees, and dynamic programming challenges.
 
-#### Hardware & Electronics Labs
-* **Dancing LED Circuit Assignment:** A practical electronic logic setup configured via hardware design utilizing 555 timers and IC 4017 dividers.
 
 ---
 
