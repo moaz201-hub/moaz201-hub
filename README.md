@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
   <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
-<a href="http://googleusercontent.com/spotify.com/3">
+<a href="http://googleusercontent.com/spotify.com/4">
   <img alt="Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
@@ -19,33 +19,52 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moaz201-hub&theme=github-dark-dimmed&custom_title=Moaz%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-📊 Development Profile & Core Focus ```text
-💬 Core Programming Languages:
-C++ (Competitive Programming)    ███████████░░░░░░░░░░░░░   45.0 %
-JavaScript / React               ██████░░░░░░░░░░░░░░░░░░   25.0 %
-C# (.NET Backend)                █████░░░░░░░░░░░░░░░░░░░   20.0 %
+### 👋 Welcome to my profile!
 
-HTML/CSS                         ██░░░░░░░░░░░░░░░░░░░░░░   10.0 %
+Hi there! I am an Information Systems student at Helwan University passionate about full-stack development, algorithmic problem solving, and building efficient digital systems. Feel free to look around my repositories or connect with me through my socials above!
 
-🐱‍💻 Featured Repositories & Workspaces:
-Codeforces-Workspace             ███████████░░░░░░░░░░░░░   48.1 %
-Screenly-Movie-App               ████████░░░░░░░░░░░░░░░░   35.4 %
-Fit-Core-Gym                     ███░░░░░░░░░░░░░░░░░░░░░   16.5 %
+> 🚀 **Current Status:** Interning as a Front-End AI Engineer at FlyRank AI and actively participating in competitive programming contests.
 
-```yaml
-name: Moaz Youssef
-located_in: Egypt
-from: Egypt
-job: Front-End AI Engineering Intern
-education: ["Bachelor's in Information Systems"]
-company: FlyRank AI
-past experiences:
-  - ["Front-End AI Engineering Intern", "Web AI Applications", "FlyRank AI", "Egypt", "2026-Present"]
-  - ["Competitive Programmer", "Algorithms & Data Structures", "Codeforces / ICPC Teams", "Egypt", "2025-Present"]
+---
 
-fields_of_interests: ["Competitive Programming", "Full-Stack Development", "AI Engineering", "Digital Electronics"]
-technical_background: ["Data Structures", "Advanced Graph Algorithms", "Dynamic Programming", "Segment Trees"]
-currently_learning: ["React", ".NET", "Advanced Number Theory"]
-will_learn: ["Angular", "System Design"]
-hobbies: ["Chess", "Rubik's Cube Solving", "PC Customization", "Circuit Building"]
+### 👤 About Me
+
+* **Name:** Moaz Youssef
+* **Location:** Egypt
+* **Education:** Bachelor's degree in Information Systems at Helwan University
+* **Current Role:** Front-End AI Engineering Intern at FlyRank AI
+* **Fields of Interest:** Competitive Programming, Full-Stack Development, AI Engineering, and Digital Electronics
+* **Technical Background:** Data Structures, Advanced Graph Algorithms, Dynamic Programming, and Segment Trees
+* **Currently Learning:** React, .NET, and Advanced Number Theory
+* **Future Focus:** Angular and System Design
+* **Hobbies:** Chess, Rubik's Cube Solving, PC Customization, and Circuit Building
+
+---
+
+### 💼 Past Experiences
+
+* **Front-End AI Engineering Intern** | Web AI Applications | FlyRank AI (Egypt) | 2026 - Present
+* **Competitive Programmer** | Algorithms & Data Structures | Codeforces / ICPC Teams (Egypt) | 2025 - Present
+
+---
+
+### 📊 Development Profile & Core Focus
+
+#### 💬 Core Programming Languages
+* **C++ (Competitive Programming):** 45.0% (███████████░░░░░░░░░░░░)
+* **JavaScript / React:** 25.0% (██████░░░░░░░░░░░░░░░░░░)
+* **C# (.NET Backend):** 20.0% (█████░░░░░░░░░░░░░░░░░░░)
+* **HTML/CSS:** 10.0% (██░░░░░░░░░░░░░░░░░░░░░░)
+
+#### 🐱‍💻 Featured Repositories & Workspaces
+* **Codeforces-Workspace:** 48.1% (███████████░░░░░░░░░░░░░)
+* **Screenly-Movie-App:** 35.4% (████████░░░░░░░░░░░░░░░░)
+* **Fit-Core-Gym:** 16.5% (███░░░░░░░░░░░░░░░░░░░░░)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
