@@ -1,26 +1,26 @@
-[![Actions Status](https://github.com/[your-username]/[your-username]/workflows/wakatime-stats/badge.svg)](https://github.com/[your-username]/[your-username]/actions)
-[![Actions Status](https://github.com/[your-username]/[your-username]/workflows/update-gh-activity/badge.svg)](https://github.com/[your-username]/[your-username]/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=[your-username].[your-username])
+[![Actions Status](https://github.com/moaz201-hub/moaz201-hub/workflows/wakatime-stats/badge.svg)](https://github.com/moaz201-hub/moaz201-hub/actions)
+[![Actions Status](https://github.com/moaz201-hub/moaz201-hub/workflows/update-gh-activity/badge.svg)](https://github.com/moaz201-hub/moaz201-hub/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=moaz201-hub.moaz201-hub)
 
 <p align="center">
-  <img src="https://socialify.git.ci/[your-username]/[your-username]/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="[your-username]" width="700" height="300" />
+  <img src="https://socialify.git.ci/moaz201-hub/moaz201-hub/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="moaz201-hub" width="700" height="300" />
 </p>
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/[your-linkedin]">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
   <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
-<a href="https://open.spotify.com/user/[your-spotify-id]">
+<a href="http://googleusercontent.com/spotify.com/3">
   <img alt="Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&theme=github-dark-dimmed&custom_title=My%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moaz201-hub&theme=github-dark-dimmed&custom_title=Moaz%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
-name: [Your Name]
+name: Moaz Youssef
 located_in: Egypt
 from: Egypt
 job: Front-End AI Engineering Intern
@@ -35,3 +35,16 @@ technical_background: ["Data Structures", "Advanced Graph Algorithms", "Dynamic 
 currently_learning: ["React", ".NET", "Advanced Number Theory"]
 will_learn: ["Angular", "System Design"]
 hobbies: ["Chess", "Rubik's Cube Solving", "PC Customization", "Circuit Building"]
+
+📊 Development Profile & Core Focus ```text
+💬 Core Programming Languages:
+C++ (Competitive Programming)    ███████████░░░░░░░░░░░░░   45.0 %
+JavaScript / React               ██████░░░░░░░░░░░░░░░░░░   25.0 %
+C# (.NET Backend)                █████░░░░░░░░░░░░░░░░░░░   20.0 %
+
+HTML/CSS                         ██░░░░░░░░░░░░░░░░░░░░░░   10.0 %
+
+🐱‍💻 Featured Repositories & Workspaces:
+Codeforces-Workspace             ███████████░░░░░░░░░░░░░   48.1 %
+Screenly-Movie-App               ████████░░░░░░░░░░░░░░░░   35.4 %
+Fit-Core-Gym                     ███░░░░░░░░░░░░░░░░░░░░░   16.5 %
