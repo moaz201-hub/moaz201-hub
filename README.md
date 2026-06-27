@@ -19,6 +19,20 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moaz201-hub&theme=github-dark-dimmed&custom_title=Moaz%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+📊 Development Profile & Core Focus ```text
+💬 Core Programming Languages:
+C++ (Competitive Programming)    ███████████░░░░░░░░░░░░░   45.0 %
+JavaScript / React               ██████░░░░░░░░░░░░░░░░░░   25.0 %
+C# (.NET Backend)                █████░░░░░░░░░░░░░░░░░░░   20.0 %
+
+HTML/CSS                         ██░░░░░░░░░░░░░░░░░░░░░░   10.0 %
+
+🐱‍💻 Featured Repositories & Workspaces:
+Codeforces-Workspace             ███████████░░░░░░░░░░░░░   48.1 %
+Screenly-Movie-App               ████████░░░░░░░░░░░░░░░░   35.4 %
+Fit-Core-Gym                     ███░░░░░░░░░░░░░░░░░░░░░   16.5 %
+
 ```yaml
 name: Moaz Youssef
 located_in: Egypt
@@ -35,16 +49,3 @@ technical_background: ["Data Structures", "Advanced Graph Algorithms", "Dynamic 
 currently_learning: ["React", ".NET", "Advanced Number Theory"]
 will_learn: ["Angular", "System Design"]
 hobbies: ["Chess", "Rubik's Cube Solving", "PC Customization", "Circuit Building"]
-
-📊 Development Profile & Core Focus ```text
-💬 Core Programming Languages:
-C++ (Competitive Programming)    ███████████░░░░░░░░░░░░░   45.0 %
-JavaScript / React               ██████░░░░░░░░░░░░░░░░░░   25.0 %
-C# (.NET Backend)                █████░░░░░░░░░░░░░░░░░░░   20.0 %
-
-HTML/CSS                         ██░░░░░░░░░░░░░░░░░░░░░░   10.0 %
-
-🐱‍💻 Featured Repositories & Workspaces:
-Codeforces-Workspace             ███████████░░░░░░░░░░░░░   48.1 %
-Screenly-Movie-App               ████████░░░░░░░░░░░░░░░░   35.4 %
-Fit-Core-Gym                     ███░░░░░░░░░░░░░░░░░░░░░   16.5 %
