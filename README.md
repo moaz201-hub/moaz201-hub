@@ -21,15 +21,15 @@
 
 ---
 
-### 👋 Welcome to my profile!
+### Welcome to my profile!
 
-Hi there! I am an Information Systems student passionate about full-stack development, algorithmic problem solving, and building efficient digital systems. Feel free to look around my repositories or connect with me through my socials above!
+Hi there! I am an Information Systems student at Helwan University passionate about full-stack development, algorithmic problem solving, and building efficient digital systems. Feel free to look around my repositories or connect with me through my socials above!
 
->  **Current Status:** Interning as a Front-End AI Engineer at FlyRank AI and actively participating in competitive programming contests.
+> **Current Status:** Interning as a Front-End AI Engineer at FlyRank AI and actively participating in competitive programming contests.
 
 ---
 
-### 👤 About Me
+### About Me
 
 * **Name:** Moaz Youssef
 * **Location:** Egypt
@@ -43,22 +43,37 @@ Hi there! I am an Information Systems student passionate about full-stack develo
 
 ---
 
-### 💼 Past Experiences
+### Past Experiences & Assignments
 
 * **Front-End AI Engineering Intern** | Web AI Applications | FlyRank AI (Egypt) | 2026 - Present
 * **Competitive Programmer** | Algorithms & Data Structures | Codeforces / ICPC Teams (Egypt) | 2025 - Present
+* **Academic Assignments & Practicals** | Information Systems Frameworks, Logic Design Circuits, & Advanced Mathematics | Helwan University 
 
 ---
 
-### 📊 Development Profile & Core Focus
+### Projects & System Overview
 
-####  Core Programming Languages
+#### Featured Web & AI Applications
+* **Screenly Movie App:** A responsive multi-page movie discovery platform utilizing modern web frameworks, optimized layouts, and clean routing structures.
+* **Fit Core Gym Landing Page:** A polished, high-performance frontend landing page focused on modern responsive design, UI animations, and clean CSS architecture.
+
+#### Algorithmic & Problem-Solving Workspaces
+* **Codeforces Workspace:** Automated repository managing optimized solutions for advanced graph tasks, segment trees, and dynamic programming challenges.
+
+#### Hardware & Electronics Labs
+* **Dancing LED Circuit Assignment:** A practical electronic logic setup configured via hardware design utilizing 555 timers and IC 4017 dividers.
+
+---
+
+### Development Profile & Core Focus
+
+#### Core Programming Languages
 * **C++ (Competitive Programming):** 45.0% (███████████░░░░░░░░░░░░)
 * **JavaScript / React:** 25.0% (██████░░░░░░░░░░░░░░░░░░)
 * **C# (.NET Backend):** 20.0% (█████░░░░░░░░░░░░░░░░░░░)
 * **HTML/CSS:** 10.0% (██░░░░░░░░░░░░░░░░░░░░░░)
 
-#### Featured Repositories & Workspaces
+#### Distribution Across Active Repositories
 * **Codeforces-Workspace:** 48.1% (███████████░░░░░░░░░░░░░)
 * **Screenly-Movie-App:** 35.4% (████████░░░░░░░░░░░░░░░░)
 * **Fit-Core-Gym:** 16.5% (███░░░░░░░░░░░░░░░░░░░░░)
