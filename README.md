@@ -36,7 +36,7 @@ Hi there! I am an Information Systems student at Helwan University passionate ab
 * **Education:** Bachelor's degree in Information Systems at Helwan University
 * **Current Role:** Front-End AI Engineering Intern at FlyRank AI
 * **Fields of Interest:** Competitive Programming, Full-Stack Development, AI Engineering, and Digital Electronics
-* **Technical Background:** Data Structures, Advanced Graph Algorithms, Dynamic Programming, and Segment Trees
+* **Technical Background:** Data Structures, Advanced Graph Algorithms,Dp , Trees
 * **Currently Learning:** React, .NET, and Advanced Number Theory
 * **Future Focus:** Angular and System Design
 * **Hobbies:** Chess, Rubik's Cube Solving, PC Customization, and Circuit Building
