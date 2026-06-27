@@ -25,7 +25,7 @@
 
 Hi there! I am an Information Systems student at Helwan University passionate about full-stack development, algorithmic problem solving, and building efficient digital systems. Feel free to look around my repositories or connect with me through my socials above!
 
-> 🚀 **Current Status:** Interning as a Front-End AI Engineer at FlyRank AI and actively participating in competitive programming contests.
+>  **Current Status:** Interning as a Front-End AI Engineer at FlyRank AI and actively participating in competitive programming contests.
 
 ---
 
@@ -52,13 +52,13 @@ Hi there! I am an Information Systems student at Helwan University passionate ab
 
 ### 📊 Development Profile & Core Focus
 
-#### 💬 Core Programming Languages
+####  Core Programming Languages
 * **C++ (Competitive Programming):** 45.0% (███████████░░░░░░░░░░░░)
 * **JavaScript / React:** 25.0% (██████░░░░░░░░░░░░░░░░░░)
 * **C# (.NET Backend):** 20.0% (█████░░░░░░░░░░░░░░░░░░░)
 * **HTML/CSS:** 10.0% (██░░░░░░░░░░░░░░░░░░░░░░)
 
-#### 🐱‍💻 Featured Repositories & Workspaces
+#### Featured Repositories & Workspaces
 * **Codeforces-Workspace:** 48.1% (███████████░░░░░░░░░░░░░)
 * **Screenly-Movie-App:** 35.4% (████████░░░░░░░░░░░░░░░░)
 * **Fit-Core-Gym:** 16.5% (███░░░░░░░░░░░░░░░░░░░░░)
